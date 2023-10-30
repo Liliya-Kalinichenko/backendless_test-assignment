@@ -1,0 +1,28 @@
+.NavBar {
+  background-color: #d7e5e5;
+  height: 80px;  
+}
+
+.NavBar__container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-left: 120px;
+}
+
+.NavBar__item {
+  height: 100%;
+  line-height: 80px;
+  transition-duration: 0.3s;
+  border-bottom: 3px solid transparent;
+  border-radius: 2px;
+}
+
+.NavBar__item:hover {
+  background-color: #c5d8d8;
+}
+
+.is-active {
+  border-color: darkslategray;
+}
