@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[230],{230:function(e,s,a){a.r(s);var n=a(184);s.default=function(){return(0,n.jsx)("div",{className:"container is-max-desktop content",children:(0,n.jsx)("h1",{className:"title is-3",children:"Dummy Chart"})})}}}]);
+//# sourceMappingURL=230.41251719.chunk.js.map
